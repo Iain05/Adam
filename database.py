@@ -28,6 +28,7 @@ response_howareyou = [
     "Nice and dandy like cotton candy",
     "I can't complain, it's against my codes policy",
     "I can't complain, you didn't program that into me",
-    "Average, not terrific, not terrible, just average"
+    "Average, not terrific, not terrible, just average",
+    "You're my programmer, you already know how I am"
 
 ]
