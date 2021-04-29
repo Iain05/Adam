@@ -93,6 +93,9 @@ def run_ai():
         time = time.replace(':', '')
         talk('the time is' + time)
         print(time)
+
+    elif 'how are' in command:
+        talk(database.response_howareyou[random.randrange(0, len(database.response_howareyou))])
     elif 'good morning' in command:
         morning()
     elif 'date' or 'day' in command:
